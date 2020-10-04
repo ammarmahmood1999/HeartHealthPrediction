@@ -15,3 +15,4 @@ Cross Validation is also done for all the models. The results are same but have 
 ->Copy Heart Health.ipynb to path C:\Users\xyz along with heart.csv <br>
 ->Run Jupyter Notebook and open file from its home page <br>
 ->Change the path of read_csv() as your file location <br>
+->pip install the reqired libraries
